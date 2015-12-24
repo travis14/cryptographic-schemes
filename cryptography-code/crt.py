@@ -4,4 +4,3 @@
 # Takes in a list of tuples (a_i, m_i) and returns the value of x
 
 def crt():
-	
